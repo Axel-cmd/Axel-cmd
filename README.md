@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Axel</h1>
+<h3 align="center">Software Engineer</h3>
 
-<!--
-**Axel-cmd/Axel-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Who am I ?
+I am a **Software Engineer** based in **France**.  
+I'm passionate about building projects that solve real problems.  
+I enjoy learning, experimenting, and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What am I currently working on ?
+- 🔭 I’m building a **bracket management saas for french volleyball clubs**  
+- 🧠 I’m exploring **saas and business creation**  
+
+---
+
+## 📫 How to reach me ?
+- ✉️ Email: **axelminart.pro@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/axel-minart-4158881a4**  
+- 🌐 Portfolio / Website: **https://axelminart.com**  
+
+
+---
+
+## ✨ Fun Facts
+- 🎧 I code with: **Mac Quayle songs**  
+- ☕ I survive on: **Green Ice Tea - White Peach**  
+- 🤖 I love playing: **Volleyball**
+
+---
+
+### ⭐ Thanks for visiting my profile!
