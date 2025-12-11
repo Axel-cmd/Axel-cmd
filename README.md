@@ -1,6 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Axel</h1>
-<h3 align="center">Software Engineer</h3>
-
+# Hi there 👋, I'm Axel
 ---
 
 ## 🧑‍💻 Who am I ?
