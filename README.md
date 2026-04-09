@@ -25,7 +25,7 @@ I enjoy learning, experimenting, and continuously improving my skills.
 ## ✨ Fun Facts
 - 🎧 I code with: **Mac Quayle songs**  
 - ☕ I survive on: **Green Ice Tea - White Peach**  
-- 🤖 I love playing: **Volleyball**
+- 🤖 I love : **playing Volleyball & riding motorcycle**
 
 ---
 
